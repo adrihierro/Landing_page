@@ -1,0 +1,214 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;400;600;700&family=Roboto:wght@400;700&display=swap');
+.container{
+    width: 1440px;
+    height: 1024px;
+    margin: auto;
+    background: #FDFEFE;
+    
+}
+
+.Izquierda{
+    padding: 35px 10px;
+}
+
+.Izquierda a{
+    padding: 30px;
+}
+
+.home {
+    color: #3A59FF;
+    font-family: Raleway;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal; 
+}
+
+.about{
+    color: #000;
+    font-family: Raleway;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal; 
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.Derecha{
+    padding: 35px 75px 100px;
+    display: flex;
+}
+
+.Derecha a{
+    margin-right: 80px;
+    display: flex;
+}
+
+.Login{
+    color: #000;
+    font-family: Raleway;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal; 
+}
+
+.Signup-container {
+    display: flex;
+    width: 150px;
+    height: 38px;
+    border-radius: 20px;
+    border: 1px solid #FF8B99;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.Signup {
+    color: #FF8B99;
+    font-family: Raleway;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    
+}
+
+.Logo {
+    display: flex;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    background: linear-gradient(0deg, #FDFEFE 4.48%, #E8B1B8 89.37%);
+    width: 486.264px;
+    height: 597.883px;
+    border-radius: 0 0 1000px 1000px;
+}
+
+.logo1 {
+    color: #FFF;
+    font-family: 'Maiandra GD', sans-serif;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 36.54px;
+    text-align: center;
+    padding: 10px;
+}
+
+.rosé{
+    color: #3A59FF;
+    font-family: Histora Beralin;
+    font-size: 85px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 5.95px; 
+    margin-top: 230px;
+    margin-left: -50px;
+}
+
+.ocassional{
+    color: #000;
+    font-family: Histora Beralin;
+    font-size: 85px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 10px; 
+}
+
+.text h1{
+    margin-top: -200px;
+    padding-left: 20px;
+}
+
+.a{
+    color: #271908;
+    font-family: Raleway;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: normal;
+    letter-spacing: 2.16px; 
+}
+
+.text p{
+    margin-left: 80px;
+}
+
+.browse{
+    border-radius: 40px;
+    background: #271908; 
+    display: flex;
+    width: 227px;
+    height: 66px;
+    gap: 10px; 
+    text-align: center;
+    justify-content: center;
+    align-items: center; 
+    margin-top: 150px;
+    margin-left: 50px;  
+}
+
+.b{
+    color: #FFF;
+    font-family: Raleway;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px; 
+}
+
+.body-right{
+    display: flex;
+    justify-content: end;
+    margin-top: -700px;
+    margin-right: 115px;
+}
+
+.img-right{
+    width: 750px;
+    height: 850px;
+    background-color: transparent;
+    background-image: url(../Img/imagen.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex; 
+    border-radius: 800px 800px 0 0;
+}
+
+.waves{
+    display: flex;
+    width: 231px;
+    height: 18px;
+    flex-direction: column;
+    margin-left: 360px;
+    margin-top: 90px;
+}
+
+.lorem{
+    background-color: #1030e6;
+    width: 278.509px;
+    height: 278.802px;
+}
+
+main {
+    width: 200px; height: 190px;
+    font-size: 10px;
+    margin-left: 380px;
+    margin-top: -300px;
+  }
+
+  main svg {
+    overflow: visible;
+  }
+  main path {
+    fill: none;
+  }
